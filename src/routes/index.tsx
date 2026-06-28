@@ -155,7 +155,7 @@ function Hero() {
             <a href="#projects" className="group inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-neon-cyan via-neon-blue to-neon-purple px-6 py-3 text-sm font-semibold text-background shadow-lg shadow-neon-purple/30 transition hover:scale-[1.03]">
               View Projects <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </a>
-            <a href="/Rohit_Kumar_CV.pdf" download className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-6 py-3 text-sm font-medium backdrop-blur transition hover:bg-white/10">
+            <a href="/Rohit_Kumar_1y Exp.pdf" download className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-6 py-3 text-sm font-medium backdrop-blur transition hover:bg-white/10">
               <Download className="h-4 w-4" /> Download Resume
             </a>
             <a href="#contact" className="inline-flex items-center gap-2 rounded-full px-6 py-3 text-sm font-medium text-muted-foreground transition hover:text-foreground">
